@@ -1,4 +1,4 @@
-<h2> Hi, I'm Wellignton! <img src="https://i.ibb.co/mCfFsHS/hello.png" width="40px"></h2>
+<h2> Hi, I'm Wellington! <img src="https://i.ibb.co/mCfFsHS/hello.png" width="40px"></h2>
 
 <p>I am a Senior Software Engineer, based in Brazil 🇧🇷</p>
 
