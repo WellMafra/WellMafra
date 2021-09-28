@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2> Hi, I'm Wellignton! <img src="https://i.ibb.co/mCfFsHS/hello.png" width="40px"></h2>
 
-<!--
-**WellMafra/WellMafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I am a Senior Software Engineer, based in Brazil 🇧🇷</p>
 
-Here are some ideas to get you started:
+<img align="right" src="https://i.ibb.co/PQ3yJsn/dev.png" width="200px"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+- **Java**, **Javascript**, **.NET**
+- Backend development using **Spring Boot, Java EE, Node, .NET Core**
+- Front-end development using **React, AngularJS**
+- Mobile application development using **React Native, Ionic**
+- **Docker**, **Kubernetes**
+
+![Wellington's github stats](https://github-readme-stats.vercel.app/api?username=wellmafra&theme=dracula&show_icons=true&count_private=true)
