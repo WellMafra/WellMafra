@@ -12,4 +12,6 @@
 - Mobile application development using **React Native, Ionic**
 - **Docker**, **Kubernetes**
 
-![Wellington's github stats](https://github-readme-stats.vercel.app/api?username=wellmafra&theme=dracula&show_icons=true&count_private=true)
+![Wellington's github stats](https://github-readme-stats.vercel.app/api?username=wellmafra&theme=dracula&show_icons=true&count_private=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellmafra&layout=compact&theme=dracula&count_private=true&hide_border=true)](https://github.com/guinr/github-readme-stats)
