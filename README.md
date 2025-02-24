@@ -6,8 +6,8 @@
 
 ## 🚀 Technologies
 
-- **Java**, **Javascript**, **.NET**
-- Backend development using **Spring Boot, Java EE, Node, .NET Core**
+- **Java**, **Go**, **.NET**, **Javascript**
+- Backend development using **Go**, Spring Boot, Java EE, .NET Core**
 - Front-end development using **React, AngularJS**
 - Mobile application development using **React Native, Ionic**
 - **Docker**, **Kubernetes**
